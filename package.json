@@ -4,20 +4,20 @@
   "description": "33 concepts every JavaScript developer should know.",
   "main": "index.js",
   "author": {
-    "name": "Leonardo Maldonado",
-    "url": "https://github.com/leonardomso"
+    "name": "Manish Yadav",
+    "url": "https://github.com/manish-npx"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/leonardomso/33/issues"
+    "url": "https://github.com/manish-npx/33-js-concepts/issues"
   },
-  "homepage": "https://github.com/leonardomso/33#readme",
+  "homepage": "https://github.com/manish-npx/33-js-concepts#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leonardomso/33.git"
+    "url": "git+https://github.com/manish-npx/33-js-concepts.git"
   },
   "keywords": [
     "JavaScript",
@@ -31,6 +31,8 @@
     "nodejs",
     "Node.js",
     "NodeJS",
-    "Node"
+    "Node",
+    "React",
+    "React-js"
   ]
 }
